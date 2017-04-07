@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  MacHash
+
+  Created by WeiKeting on 15-2-27.
+  Copyright (c) 2015年 weiketing.com. All rights reserved.
+*/
+"Application is busying" = "程序繁忙中";
+"YES" = "是";
+"NO" = "否";
+"Quit now?" = "确定要退出么?";
+"File" = "文件";
+"Folder" = "文件夹";
+"Size" = "大小";
+"Byte" = "字节";
+"Modified" = "修改时间";
+"A new version is available"="发现新版本";
+"Download Now"="立即下载";
+"Reminer Me Later"="稍后再提示";
+"%@ %@ is available--You have %@. Would you like to download it now?"="%@ %@ 已经可供下载—你现在的版本是%@。你需要现在下载它吗？";
+"Software Update"="软件更新";
+"%@ is up to date."="%@已经是最新版。";
+"Version %@" = "当前版本 %@";
+"\n*** Process stoped as request! ***\n\n"="\n*** 校验码计算任务已被中断！***\n\n";
